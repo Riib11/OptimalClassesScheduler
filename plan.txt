@@ -1,0 +1,7 @@
+The plan is to have a bunch of students that want to sign up for classes.
+
+They have ranks of preferences for certain classes. They get these preferences randomly. They have a preference for all the classes, but in order from greatest to least.
+
+The trick is, there is just enough space for all students in all the classes, but the students won't all get into the classes they want.
+
+The goal is to get the most students to get the most classes that they want.

@@ -1,0 +1,50 @@
+# 
+# The following have class values on a quadratic scale
+# (optimal has mean ~= 0)
+
+Pure Random Distribute:
+    mean: 3.03802
+    std: 8.30512415277
+
+# everyone gets a chance to pick a class, then another, etc. 2 times
+# then there is random
+
+First 1 Pick: 2.798715 ; 7.25657909547
+
+First 2 Picks: 2.564625 ; 6.22954405069
+
+First 3 Picks: 2.21456 ; 4.95085299009
+    
+
+# everyone gets a chance to pick up to x classes.
+# then there is random
+
+Take 2 Picks:
+    mean: 2.52974
+    std: 6.17429555237
+
+Take 3 Picks:
+    mean: 2.27693
+    std: 5.17601800633
+
+#
+# The following have class valeus on a quadratic scale
+#
+
+Pure Random Distribute: 16.899375 ; 51.5132454177
+
+# everyone gets a chance to pick a class, then another, etc. 2 times
+# then there is random
+
+First Pick: 15.93859 ; 45.8539588799
+
+First 2 Picks: 14.41395 ; 39.3814497147
+
+First 3 Picks: 12.686445 ; 31.4417968285
+
+# everyone gets a chance to pick up to x classes.
+# then there is random
+
+Take 2 Picks: 14.412675 ; 38.8983747373
+
+Take 3 Picks: 12.918345 ; 32.2502229591
